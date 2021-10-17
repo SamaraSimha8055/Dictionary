@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary App</string>
+    <string name="str_edit_text">Search your word</string>
+    <string name="str_btn">find</string>
+    <string name="back_layout">gets back to previous layout</string>
+    <string name="str_tools_def">Definition of word</string>
+</resources>
